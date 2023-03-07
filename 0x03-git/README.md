@@ -1,2 +1,2 @@
 my second readme  
-update
+hello git
