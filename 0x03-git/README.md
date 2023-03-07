@@ -1,2 +1,2 @@
-my second readme abdated 
-what happend
+my second readme  
+update
